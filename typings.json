@@ -1,0 +1,7 @@
+{
+  "name": "iron:router",
+  "version": "1.0.12",
+  "main": "main.d.ts",
+  "homepage": "https://atmospherejs.com/iron/router",
+  "ambient": true
+}
